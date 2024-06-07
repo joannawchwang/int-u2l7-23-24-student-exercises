@@ -13,7 +13,7 @@
 /* 3. Recheck the ratio now. Afterwards, go to the HTML file.*/
 
 body {
-    background-color: #d93f3f;
+    background-color: lightgoldenrodyellow;
     color: #eb2626;
 }
 
@@ -29,4 +29,8 @@ body {
     border-radius: 30px;
     font-family: 'Italianno', cursive;
     font-size: 90px;
+}
+
+.foof-pic{
+    width: 40px
 }
